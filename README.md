@@ -8,7 +8,7 @@ This repository is modelled after the
 Nikonian (modern) texts.
 
 Это хранилище построено так же, как и
-[репозиторий] (https://github.com/slavonic/cu-md-sandbox), содержащее
+[репозиторий](https://github.com/slavonic/cu-md-sandbox), содержащее
 современные (никоновские) тексты.
 
 ## List of structural IDs
