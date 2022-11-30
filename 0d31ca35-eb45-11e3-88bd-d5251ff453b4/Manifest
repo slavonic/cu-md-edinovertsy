@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookdata>
+	<head>
+		<meta name="uuid" content="0d31ca35-eb45-11e3-88bd-d5251ff453b4"/>
+		<meta name="lang" content="cu-xjos"/>
+		<meta name="title" content="Минея, ноябрь"/>
+		<meta name="latin" content="MenaionNovemberEdinovertsy"/>
+		<meta name="publisher" content="?"/>
+		<meta name="year" content="?"/>
+		<meta name="note" content="Source; Conversion from UCS to Unicode: Ponomar Technologies, Inc."/>
+		<meta name="keywords" content="menaion, liturgics, богослужебные тексты, богослужение, литургика"/>
+	</head>
+	<manifest>
+		<chapter file="November_1.md" name="November 1"/>
+		<chapter file="November_2.md" name="November 2"/>
+		<chapter file="November_3.md" name="November 3"/>
+		<chapter file="November_4.md" name="November 4"/>
+		<chapter file="November_5.md" name="November 5"/>
+		<chapter file="November_6.md" name="November 6"/>
+		<chapter file="November_7.md" name="November 7"/>
+		<chapter file="November_8.md" name="November 8"/>
+		<chapter file="November_9.md" name="November 9"/>
+		<chapter file="November_10.md" name="November 10"/>
+		<chapter file="November_11.md" name="November 11"/>
+		<chapter file="November_12.md" name="November 12"/>
+		<chapter file="November_13.md" name="November 13"/>
+		<chapter file="November_14.md" name="November 14"/>
+		<chapter file="November_15.md" name="November 15"/>
+		<chapter file="November_16.md" name="November 16"/>
+		<chapter file="November_17.md" name="November 17"/>
+		<chapter file="November_18.md" name="November 18"/>
+		<chapter file="November_19.md" name="November 19"/>
+		<chapter file="November_20.md" name="November 20"/>
+		<chapter file="November_21.md" name="November 21"/>
+		<chapter file="November_22.md" name="November 22"/>
+		<chapter file="November_23.md" name="November 23"/>
+		<chapter file="November_24.md" name="November 24"/>
+		<chapter file="November_25.md" name="November 25"/>
+		<chapter file="November_26.md" name="November 26"/>
+		<chapter file="November_27.md" name="November 27"/>
+		<chapter file="November_28.md" name="November 28"/>
+		<chapter file="November_29.md" name="November 29"/>
+		<chapter file="November_30.md" name="November 30"/>
+		<chapter file="Resurrectional_Theotokia.md" name="Resurrectional Theotokia"/>
+		<chapter file="Weekday_Theotokia.md" name="Weekday Theotokia"/>
+		<chapter file="Primary_Theotokia.md" name="Primary Theotokia"/>
+		<chapter file="Theotokia_for_Troparia.md" name="Theotokia for Troparia"/>
+	</manifest>
+</bookdata>
