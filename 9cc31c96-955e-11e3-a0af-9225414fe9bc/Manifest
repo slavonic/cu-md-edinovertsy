@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookdata>
+	<head>
+		<meta name="uuid" content="9cc31c96-955e-11e3-a0af-9225414fe9bc"/>
+		<meta name="lang" content="cu-xjos"/>
+		<meta name="title" content="Минея на февраль"/>
+		<meta name="latin" content="MenaionFebruaryEdinovertsy"/>
+		<meta name="publisher" content="Москва, Единоверческая Типография"/>
+		<meta name="year" content="1832"/>
+		<meta name="note" content="Source: Тексты набраны и сформатированы Александром Ивановичем Самсоновым. Скачаны с сайта http://samstar-biblio.ucoz.ru/; Conversion from UCS to Unicode: Ponomar Technologies, Inc."/>
+		<meta name="keywords" content="menaion, liturgics, богослужебные тексты, богослужение, литургика"/>
+	</head>
+	<manifest>
+		<chapter file="February_1.md" name="February 1"/>
+		<chapter file="February_2.md" name="February 2"/>
+		<chapter file="February_3.md" name="February 3"/>
+		<chapter file="February_4.md" name="February 4"/>
+		<chapter file="February_5.md" name="February 5"/>
+		<chapter file="February_6.md" name="February 6"/>
+		<chapter file="February_7.md" name="February 7"/>
+		<chapter file="February_8.md" name="February 8"/>
+		<chapter file="February_9.md" name="February 9"/>
+		<chapter file="February_10.md" name="February 10"/>
+		<chapter file="February_11.md" name="February 11"/>
+		<chapter file="February_12.md" name="February 12"/>
+		<chapter file="February_13.md" name="February 13"/>
+		<chapter file="February_14.md" name="February 14"/>
+		<chapter file="February_15.md" name="February 15"/>
+		<chapter file="February_16.md" name="February 16"/>
+		<chapter file="February_17.md" name="February 17"/>
+		<chapter file="February_18.md" name="February 18"/>
+		<chapter file="February_19.md" name="February 19"/>
+		<chapter file="February_20.md" name="February 20"/>
+		<chapter file="February_21.md" name="February 21"/>
+		<chapter file="February_22.md" name="February 22"/>
+		<chapter file="February_23.md" name="February 23"/>
+		<chapter file="February_24.md" name="February 24"/>
+		<chapter file="February_25.md" name="February 25"/>
+		<chapter file="February_26.md" name="February 26"/>
+		<chapter file="February_27.md" name="February 27"/>
+		<chapter file="February_28.md" name="February 28"/>
+		<chapter file="February_29.md" name="February 29"/>
+		<chapter file="Dismissal_Theotokia.md" name="Dismissal Theotokia"/>
+		<chapter file="Lesser_Dismissal_Theotokia.md" name="Lesser Dismissal Theotokia"/>
+		<chapter file="Resurrectional_Theotokia_for_Stichera.md" name="Resurrectional Theotokia for Stichera"/>
+		<chapter file="Lesser_Theotokia_for_Stichera.md" name="Lesser Theotokia for Stichera"/>
+		<chapter file="Appendix.md" name="Appendix"/>
+	</manifest>
+</bookdata>
