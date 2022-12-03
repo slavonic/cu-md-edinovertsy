@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookdata>
+	<head>
+		<meta name="uuid" content="5fbe7aa3-b32f-11e3-b3b9-941ac53df7c5"/>
+		<meta name="lang" content="cu-xjos"/>
+		<meta name="title" content="Минея на март"/>
+		<meta name="latin" content="MenaionMarchEdinovertsy"/>
+		<meta name="publisher" content="Москва, Единоверческая Типография"/>
+		<meta name="year" content="1832"/>
+		<meta name="note" content="Source: Тексты набраны и сформатированы Александром Ивановичем Самсоновым. Скачаны с сайта http://samstar-biblio.ucoz.ru/; Conversion from UCS to Unicode: Ponomar Technologies, Inc."/>
+		<meta name="keywords" content="menaion, liturgics, богослужебные тексты, богослужение, литургика"/>
+	</head>
+	<manifest>
+		<chapter file="March_1.md" name="March 1"/>
+		<chapter file="March_2.md" name="March 2"/>
+		<chapter file="March_3.md" name="March 3"/>
+		<chapter file="March_4.md" name="March 4"/>
+		<chapter file="March_5.md" name="March 5"/>
+		<chapter file="March_6.md" name="March 6"/>
+		<chapter file="March_7.md" name="March 7"/>
+		<chapter file="March_8.md" name="March 8"/>
+		<chapter file="March_9.md" name="March 9"/>
+		<chapter file="March_10.md" name="March 10"/>
+		<chapter file="March_11.md" name="March 11"/>
+		<chapter file="March_12.md" name="March 12"/>
+		<chapter file="March_13.md" name="March 13"/>
+		<chapter file="March_14.md" name="March 14"/>
+		<chapter file="March_15.md" name="March 15"/>
+		<chapter file="March_16.md" name="March 16"/>
+		<chapter file="March_17.md" name="March 17"/>
+		<chapter file="March_18.md" name="March 18"/>
+		<chapter file="March_19.md" name="March 19"/>
+		<chapter file="March_20.md" name="March 20"/>
+		<chapter file="March_21.md" name="March 21"/>
+		<chapter file="March_22.md" name="March 22"/>
+		<chapter file="March_23.md" name="March 23"/>
+		<chapter file="March_24.md" name="March 24"/>
+		<chapter file="Eve_of_Annunciation.md" name="Eve of Annunciation"/>
+		<chapter file="March_25.md" name="March 25"/>
+		<chapter file="March_26.md" name="March 26"/>
+		<chapter file="March_27.md" name="March 27"/>
+		<chapter file="March_28.md" name="March 28"/>
+		<chapter file="March_29.md" name="March 29"/>
+		<chapter file="March_30.md" name="March 30"/>
+		<chapter file="March_31.md" name="March 31"/>
+		<chapter file="Dismissal_Theotokia.md" name="Dismissal Theotokia"/>
+		<chapter file="Lesser_Dismissal_Theotokia.md" name="Lesser Dismissal Theotokia"/>
+		<chapter file="Resurrectional_Theotokia_for_Stichera.md" name="Resurrectional Theotokia for Stichera"/>
+		<chapter file="Lesser_Theotokia_for_Stichera.md" name="Lesser Theotokia for Stichera"/>
+	</manifest>
+</bookdata>
