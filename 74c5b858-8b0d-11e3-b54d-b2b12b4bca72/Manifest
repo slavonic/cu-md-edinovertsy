@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookdata>
+	<head>
+		<meta name="uuid" content="74c5b858-8b0d-11e3-b54d-b2b12b4bca72"/>
+		<meta name="lang" content="cu-xjos"/>
+		<meta name="title" content="Минея, декабрь"/>
+		<meta name="latin" content="MenaionDecemberEdinovertsy"/>
+		<meta name="publisher" content="?"/>
+		<meta name="year" content="?"/>
+		<meta name="note" content="Source; Conversion from UCS to Unicode: Ponomar Technologies, Inc."/>
+		<meta name="keywords" content="menaion, liturgics, богослужебные тексты, богослужение, литургика"/>
+	</head>
+	<manifest>
+		<chapter name="December 1" file="December_1.md"/>
+		<chapter name="December 2" file="December_2.md"/>
+		<chapter name="December 3" file="December_3.md"/>
+		<chapter name="December 4" file="December_4.md"/>
+		<chapter name="December 5" file="December_5.md"/>
+		<chapter name="December 6" file="December_6.md"/>
+		<chapter name="December 7" file="December_7.md"/>
+		<chapter name="December 8" file="December_8.md"/>
+		<chapter name="December 9" file="December_9.md"/>
+		<chapter name="December 10" file="December_10.md"/>
+		<chapter name="December 11" file="December_11.md"/>
+		<chapter name="Sunday of the Forefathers" file="Sunday_of_the_Forefathers.md"/>
+		<chapter name="December 12" file="December_12.md"/>
+		<chapter name="December 13" file="December_13.md"/>
+		<chapter name="December 14" file="December_14.md"/>
+		<chapter name="December 15" file="December_15.md"/>
+		<chapter name="December 16" file="December_16.md"/>
+		<chapter name="December 17" file="December_17.md"/>
+		<chapter name="December 18" file="December_18.md"/>
+		<chapter name="Sunday before Nativity" file="Sunday_before_Nativity.md"/>
+		<chapter name="December 19" file="December_19.md"/>
+		<chapter name="December 20" file="December_20.md"/>
+		<chapter name="December 21" file="December_21.md"/>
+		<chapter name="December 22" file="December_22.md"/>
+		<chapter name="December 23" file="December_23.md"/>
+		<chapter name="December 24" file="December_24.md"/>
+		<chapter name="Royal Hours" file="Royal_Hours.md"/>
+		<chapter name="December 25" file="December_25.md"/>
+		<chapter name="December 26" file="December_26.md"/>
+		<chapter name="Sunday after Nativity" file="Sunday_after_Nativity.md"/>
+		<chapter name="December 27" file="December_27.md"/>
+		<chapter name="December 28" file="December_28.md"/>
+		<chapter name="December 30" file="December_30.md"/>
+		<chapter name="December 31" file="December_31.md"/>
+		<chapter name="Resurrectional Dismissal Theotokia" file="Resurrectional_Dismissal_Theotokia.md"/>
+		<chapter name="Weekday Dismissal Theotokia" file="Weekday_Dismissal_Theotokia.md"/>
+		<chapter name="Resurrectional Theotokia for Stichera" file="Resurrectional_Theotokia_for_Stichera.md"/>
+		<chapter name="Weekday Theotokia for Stichera" file="Weekday_Theotokia_for_Stichera.md"/>
+	</manifest>
+</bookdata>

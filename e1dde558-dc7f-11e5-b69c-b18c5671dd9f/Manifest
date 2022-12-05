@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookdata>
+	<head>
+		<meta name="uuid" content="e1dde558-dc7f-11e5-b69c-b18c5671dd9f"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Минея праздничная"/>
+		<meta name="latin" content="FestalMenaionEdinovertsy"/>
+		<meta name="publisher" content="unknown"/>
+		<meta name="year" content="unknwon"/>
+		<meta name="note" content="Source Книжница самарского староверия; Conversion from UCS to Unicode: Ponomar Technologies, Inc."/>
+		<meta name="keywords" content="минея, menaion"/>
+	</head>
+	<manifest>
+		<chapter file="sept6.md" name="6 сентября"/>
+		<chapter file="sept14.md" name="14 сентября"/>
+		<chapter file="sept26.md" name="26 сентября"/>
+		<chapter file="oct1.md" name="1 октября"/>
+		<chapter file="oct11.md" name="свв. Отцов седьмого собора"/>
+		<chapter file="oct22.md" name="22 октября"/>
+		<chapter file="oct26.md" name="26 октября"/>
+		<chapter file="nov13.md" name="13 ноября"/>
+		<chapter file="nov21.md" name="21 ноября"/>
+		<chapter file="nov27.md" name="27 ноября"/>
+		<chapter file="dec6.md" name="6 декабря"/>
+		<chapter file="forefathers.md" name="Неделя праотцев"/>
+		<chapter file="dec17.md" name="17 декабря"/>
+		<chapter file="fathers.md" name="Неделя свв. отцев"/>
+		<chapter file="dec25.md" name="25 декабря"/>
+		<chapter file="dec26.md" name="26 декабря"/>
+		<chapter file="afterfeast.md" name="Неделя богоотцев"/>
+		<chapter file="jan1.md" name="1 января"/>
+		<chapter file="jan6.md" name="6 января"/>
+		<chapter file="jan30.md" name="30 января"/>
+		<chapter file="feb2.md" name="2 февраля"/>
+		<chapter file="mar25.md" name="24 марта"/>
+		<chapter file="mar252.md" name="25 марта"/>
+		<chapter file="palmsunday.md" name="Неделя цветоносная"/>
+		<chapter file="pascha.md" name="Пасха"/>
+		<chapter file="paschahours.md" name="Пасхальные часы"/>
+		<chapter file="brighttues.md" name="Светлый вторник"/>
+		<chapter file="thomas.md" name="Неделя Фомина"/>
+		<chapter file="ascenison.md" name="Вознесение"/>
+		<chapter file="pentecost.md" name="Неделя пятидесятницы"/>
+		<chapter file="pentmon.md" name="Понедельник пятидесятницы"/>
+		<chapter file="may9.md" name="9 мая"/>
+		<chapter file="jun23.md" name="23 июня"/>
+		<chapter file="jun24.md" name="24 июня"/>
+		<chapter file="jun26.md" name="26 июня"/>
+		<chapter file="jun29.md" name="29 июня"/>
+		<chapter file="jul8.md" name="8 июля"/>
+		<chapter file="jul10.md" name="10 июля"/>
+		<chapter file="jul16.md" name="16 июля"/>
+		<chapter file="jul20.md" name="20 июля"/>
+		<chapter file="jul28.md" name="28 июля"/>
+		<chapter file="aug1.md" name="1 августа"/>
+		<chapter file="aug6.md" name="6 августа"/>
+		<chapter file="aug15.md" name="15 августа"/>
+		<chapter file="aug16.md" name="16 августа"/>
+		<chapter file="aug26.md" name="26 августа"/>
+		<chapter file="aug29.md" name="29 августа"/>
+		<chapter file="contents.md" name="Оглавление"/>
+	</manifest>
+</bookdata>

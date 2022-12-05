@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookdata>
+	<head>
+		<meta name="uuid" content="d9809eb0-fe25-11e3-bb10-899ff0097841"/>
+		<meta name="lang" content="cu-xjos"/>
+		<meta name="title" content="Псалтырь"/>
+		<meta name="latin" content="PsalterEdinovertsy"/>
+		<meta name="publisher" content="?"/>
+		<meta name="year" content="?"/>
+		<meta name="note" content="Source: Тексты набраны Александром Ивановичем Самсоновым; Conversion from UCS to Unicode: Ponomar Technologies, Inc."/>
+		<meta name="keywords" content="menaion, liturgics, богослужебные тексты, богослужение, литургика"/>
+	</head>
+	<manifest>
+		<chapter file="Ustav.md" name="Order of Psalms"/>
+		<chapter file="Beginning.md" name="Initial Beginning"/>
+		<chapter file="Cathisma_1.md" name="Cathisma 1"/>
+		<chapter file="Cathisma_2.md" name="Cathisma 2"/>
+		<chapter file="Cathisma_3.md" name="Cathisma 3"/>
+		<chapter file="Cathisma_4.md" name="Cathisma 4"/>
+		<chapter file="Cathisma_5.md" name="Cathisma 5"/>
+		<chapter file="Cathisma_6.md" name="Cathisma 6"/>
+		<chapter file="Cathisma_7.md" name="Cathisma 7"/>
+		<chapter file="Cathisma_8.md" name="Cathisma 8"/>
+		<chapter file="Cathisma_9.md" name="Cathisma 9"/>
+		<chapter file="Cathisma_10.md" name="Cathisma 10"/>
+		<chapter file="Cathisma_11.md" name="Cathisma 11"/>
+		<chapter file="Cathisma_12.md" name="Cathisma 12"/>
+		<chapter file="Cathisma_13.md" name="Cathisma 13"/>
+		<chapter file="Cathisma_14.md" name="Cathisma 14"/>
+		<chapter file="Cathisma_15.md" name="Cathisma 15"/>
+		<chapter file="Cathisma_16.md" name="Cathisma 16"/>
+		<chapter file="Cathisma_17.md" name="Cathisma 17"/>
+		<chapter file="Cathisma_18.md" name="Cathisma 18"/>
+		<chapter file="Cathisma_19.md" name="Cathisma 19"/>
+		<chapter file="Cathisma_20.md" name="Cathisma 20"/>
+		<chapter file="Psalm_151.md" name="Psalm 151"/>
+		<chapter file="BiblicalOdes.md" name="Biblical Odes"/>
+		<chapter file="PrayersAfterPsalter.md" name="Prayers after Reading the Psalter"/>
+		<chapter file="Selected_Psalms.md" name="Selected Psalms"/>
+		<chapter file="Psalm_Singing.md" name="Order of Psalm Singing"/>
+		<chapter file="Table_of_Contents.md" name="Table of Contents"/>
+	</manifest>
+</bookdata>
