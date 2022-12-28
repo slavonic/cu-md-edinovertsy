@@ -11,44 +11,44 @@
 		<meta name="keywords" content="menaion, liturgics, богослужебные тексты, богослужение, литургика"/>
 	</head>
 	<manifest>
-		<chapter name="1 декабря: пророка Наума" file="December_1.md"/>
-		<chapter name="2 декабря: пророка Аввакума" file="December_2.md"/>
-		<chapter name="3 декабря: пророка Софония" file="December_3.md"/>
-		<chapter name="4 декабря: великомученицы Варвана и прп. Иоанна Дамаскина" file="December_4.md"/>
-		<chapter name="5 декабря: прп. Саввы Освященного" file="December_5.md"/>
-		<chapter name="6 декабря: свт. Николы Чудотворца" file="December_6.md"/>
-		<chapter name="7 декабря: свт. Амбросия Медиоланского" file="December_7.md"/>
-		<chapter name="8 декабря: прп. Потапия" file="December_8.md"/>
-		<chapter name="9 декабря: зачатие св. Анны" file="December_9.md"/>
-		<chapter name="10 декабря: мчч. Мины, Ермогена и Евграфа" file="December_10.md"/>
-		<chapter name="11 декабря: прп. Даниила Столпника" file="December_11.md"/>
-		<chapter name="Неделя свв. Праотец" file="Sunday_of_the_Forefathers.md"/>
-		<chapter name="12 декабря: прп. Спиридона Тримифийского" file="December_12.md"/>
-		<chapter name="13 декабря: вмчч. Евстратия, Авксентия, Евгения, Мардария и Ореста" file="December_13.md"/>
-		<chapter name="14 декабря: мчч. Фирса и Левкия" file="December_14.md"/>
-		<chapter name="15 декабря: св. сщмч. Елевферия" file="December_15.md"/>
-		<chapter name="16 декабря: пророка Аггея" file="December_16.md"/>
-		<chapter name="17 декабря: свв. Триех отрок и прор. Даниила" file="December_17.md"/>
-		<chapter name="18 декабря: св. мч. Севастиана" file="December_18.md"/>
-		<chapter name="Неделя свв. Отец" file="Sunday_before_Nativity.md"/>
-		<chapter name="19 декабря: св. мч. Вонифатия" file="December_19.md"/>
-		<chapter name="20 декабря: св. сщмч. Игнатия Богоносца" file="December_20.md"/>
-		<chapter name="21 декабря: св. мц. Иулиании и свт. Петра, митрополита Киевского" file="December_21.md"/>
-		<chapter name="22 декабря: св. вмчы. Анастасии Фармаколитрие" file="December_22.md"/>
-		<chapter name="23 декабря: свв. Десяти мчч. в Крите" file="December_23.md"/>
-		<chapter name="24 декабря: прпмчц. Евгении" file="December_24.md"/>
-		<chapter name="Часы навечерия Рождества Христова" file="Royal_Hours.md"/>
-		<chapter name="25 декабря: Рождество Господа нашего Исуса Христа" file="December_25.md"/>
-		<chapter name="26 декабря: Собор Пресвятыя Богородицы" file="December_26.md"/>
-		<chapter name="Неделя по Рождестве Христове" file="Sunday_after_Nativity.md"/>
-		<chapter name="27 декабря: св. первомученика Стефана" file="December_27.md"/>
-		<chapter name="28 декабря: свв. 2000 мучеников никомидийских" file="December_28.md"/>
-		<chapter name="29 декабря: свв. младенцев в Вифлееме избиенных" file="December_29.md"/>
-		<chapter name="30 декабря: св. мц. Анисии" file="December_30.md"/>
-		<chapter name="31 декабря: прп. Мелании Римляныни" file="December_31.md"/>
-		<chapter name="Богородичны воскресны по тропарях" file="Resurrectional_Dismissal_Theotokia.md"/>
-		<chapter name="Богородичны и крестобогородичны на восемь гласов" file="Weekday_Dismissal_Theotokia.md"/>
-		<chapter name="Богородичны воскресны на восемь гласов" file="Resurrectional_Theotokia_for_Stichera.md"/>
-		<chapter name="Богородичны на восемь гласов, когда святому слава в Минее" file="Weekday_Theotokia_for_Stichera.md"/>
+		<chapter name="1 декабря: пророка Наума" file="December_1"/>
+		<chapter name="2 декабря: пророка Аввакума" file="December_2"/>
+		<chapter name="3 декабря: пророка Софония" file="December_3"/>
+		<chapter name="4 декабря: великомученицы Варвана и прп. Иоанна Дамаскина" file="December_4"/>
+		<chapter name="5 декабря: прп. Саввы Освященного" file="December_5"/>
+		<chapter name="6 декабря: свт. Николы Чудотворца" file="December_6"/>
+		<chapter name="7 декабря: свт. Амбросия Медиоланского" file="December_7"/>
+		<chapter name="8 декабря: прп. Потапия" file="December_8"/>
+		<chapter name="9 декабря: зачатие св. Анны" file="December_9"/>
+		<chapter name="10 декабря: мчч. Мины, Ермогена и Евграфа" file="December_10"/>
+		<chapter name="11 декабря: прп. Даниила Столпника" file="December_11"/>
+		<chapter name="Неделя свв. Праотец" file="Sunday_of_the_Forefathers"/>
+		<chapter name="12 декабря: прп. Спиридона Тримифийского" file="December_12"/>
+		<chapter name="13 декабря: вмчч. Евстратия, Авксентия, Евгения, Мардария и Ореста" file="December_13"/>
+		<chapter name="14 декабря: мчч. Фирса и Левкия" file="December_14"/>
+		<chapter name="15 декабря: св. сщмч. Елевферия" file="December_15"/>
+		<chapter name="16 декабря: пророка Аггея" file="December_16"/>
+		<chapter name="17 декабря: свв. Триех отрок и прор. Даниила" file="December_17"/>
+		<chapter name="18 декабря: св. мч. Севастиана" file="December_18"/>
+		<chapter name="Неделя свв. Отец" file="Sunday_before_Nativity"/>
+		<chapter name="19 декабря: св. мч. Вонифатия" file="December_19"/>
+		<chapter name="20 декабря: св. сщмч. Игнатия Богоносца" file="December_20"/>
+		<chapter name="21 декабря: св. мц. Иулиании и свт. Петра, митрополита Киевского" file="December_21"/>
+		<chapter name="22 декабря: св. вмчы. Анастасии Фармаколитрие" file="December_22"/>
+		<chapter name="23 декабря: свв. Десяти мчч. в Крите" file="December_23"/>
+		<chapter name="24 декабря: прпмчц. Евгении" file="December_24"/>
+		<chapter name="Часы навечерия Рождества Христова" file="Royal_Hours"/>
+		<chapter name="25 декабря: Рождество Господа нашего Исуса Христа" file="December_25"/>
+		<chapter name="26 декабря: Собор Пресвятыя Богородицы" file="December_26"/>
+		<chapter name="Неделя по Рождестве Христове" file="Sunday_after_Nativity"/>
+		<chapter name="27 декабря: св. первомученика Стефана" file="December_27"/>
+		<chapter name="28 декабря: свв. 2000 мучеников никомидийских" file="December_28"/>
+		<chapter name="29 декабря: свв. младенцев в Вифлееме избиенных" file="December_29"/>
+		<chapter name="30 декабря: св. мц. Анисии" file="December_30"/>
+		<chapter name="31 декабря: прп. Мелании Римляныни" file="December_31"/>
+		<chapter name="Богородичны воскресны по тропарях" file="Resurrectional_Dismissal_Theotokia"/>
+		<chapter name="Богородичны и крестобогородичны на восемь гласов" file="Weekday_Dismissal_Theotokia"/>
+		<chapter name="Богородичны воскресны на восемь гласов" file="Resurrectional_Theotokia_for_Stichera"/>
+		<chapter name="Богородичны на восемь гласов, когда святому слава в Минее" file="Weekday_Theotokia_for_Stichera"/>
 	</manifest>
 </bookdata>

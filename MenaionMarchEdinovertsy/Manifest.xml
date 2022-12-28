@@ -11,41 +11,41 @@
 		<meta name="keywords" content="menaion, liturgics, богослужебные тексты, богослужение, литургика"/>
 	</head>
 	<manifest>
-		<chapter file="March_1.md" name="1 марта: прпмц. Евдокии"/>
-		<chapter file="March_2.md" name="2 марта: сщмч. Феодота Киринейска"/>
-		<chapter file="March_3.md" name="3 марта: мчч. Евтропия, Клеоника и Василиска"/>
-		<chapter file="March_4.md" name="4 марта: прп. Герасима на Иордане"/>
-		<chapter file="March_5.md" name="5 марта: св. мч. Конона"/>
-		<chapter file="March_6.md" name="6 марта: свв. 42 мученик в Амории"/>
-		<chapter file="March_7.md" name="7 марта: свв. сщмчч. в Херсоне епископствовавших"/>
-		<chapter file="March_8.md" name="8 марта: прп. Феофилакта Никомидийского"/>
-		<chapter file="March_9.md" name="9 марта: свв. 40 вмчч. в Севастии"/>
-		<chapter file="March_10.md" name="10 марта: св. мч. Кондрата"/>
-		<chapter file="March_11.md" name="11 марта: свт. Софрония Иерусалимского и свт. Евфимия Новгородского"/>
-		<chapter file="March_12.md" name="12 марта: прп. Феофана Сигрианского"/>
-		<chapter file="March_13.md" name="13 марта: свт. Никифора Константинопольского"/>
-		<chapter file="March_14.md" name="14 марта: прп. Венедикта"/>
-		<chapter file="March_15.md" name="15 марта: св. мч. Агапия"/>
-		<chapter file="March_16.md" name="16 марта: св. мч. Савина"/>
-		<chapter file="March_17.md" name="17 марта: прп. Алексия, человека Божия, и прп. Макария игумена"/>
-		<chapter file="March_18.md" name="18 марта: свт. Кирилла Иерусалимского"/>
-		<chapter file="March_19.md" name="19 марта: свв. мчч. Хрисанфа и Дарии"/>
-		<chapter file="March_20.md" name="20 марта: прпп. отец в обители св. Савы убиенных"/>
-		<chapter file="March_21.md" name="21 марта: прп. Иакова исповедника"/>
-		<chapter file="March_22.md" name="22 марта: св. сщмч. Василия Ангирского"/>
-		<chapter file="March_23.md" name="23 марта: прп. Никона"/>
-		<chapter file="March_24.md" name="24 марта: предпразднство Благоведения"/>
-		<chapter file="Eve_of_Annunciation.md" name="Устав в навечерие Благовещения"/>
-		<chapter file="March_25.md" name="25 марта: Благовещение пресвятыя Богородицы"/>
-		<chapter file="March_26.md" name="26 марта: Собор архангела Гавриила"/>
-		<chapter file="March_27.md" name="27 марта: св. Матроны Солунския"/>
-		<chapter file="March_28.md" name="28 марта: прп. Илариона Нового"/>
-		<chapter file="March_29.md" name="29 марта: прп. Марка Арефусимского"/>
-		<chapter file="March_30.md" name="30 марта: прп. Иоанна Лествичника"/>
-		<chapter file="March_31.md" name="31 марта: свю сщмч. Ипатия в Гагрех"/>
-		<chapter file="Dismissal_Theotokia.md" name="Богородичны воскресны по тропарех"/>
-		<chapter file="Lesser_Dismissal_Theotokia.md" name="Богородичны и крестобогородичны по тропарех"/>
-		<chapter file="Resurrectional_Theotokia_for_Stichera.md" name="Богородичны воскресны на стихирах"/>
-		<chapter file="Lesser_Theotokia_for_Stichera.md" name="Богородичны по гласу славы в Минее"/>
+		<chapter file="March_1" name="1 марта: прпмц. Евдокии"/>
+		<chapter file="March_2" name="2 марта: сщмч. Феодота Киринейска"/>
+		<chapter file="March_3" name="3 марта: мчч. Евтропия, Клеоника и Василиска"/>
+		<chapter file="March_4" name="4 марта: прп. Герасима на Иордане"/>
+		<chapter file="March_5" name="5 марта: св. мч. Конона"/>
+		<chapter file="March_6" name="6 марта: свв. 42 мученик в Амории"/>
+		<chapter file="March_7" name="7 марта: свв. сщмчч. в Херсоне епископствовавших"/>
+		<chapter file="March_8" name="8 марта: прп. Феофилакта Никомидийского"/>
+		<chapter file="March_9" name="9 марта: свв. 40 вмчч. в Севастии"/>
+		<chapter file="March_10" name="10 марта: св. мч. Кондрата"/>
+		<chapter file="March_11" name="11 марта: свт. Софрония Иерусалимского и свт. Евфимия Новгородского"/>
+		<chapter file="March_12" name="12 марта: прп. Феофана Сигрианского"/>
+		<chapter file="March_13" name="13 марта: свт. Никифора Константинопольского"/>
+		<chapter file="March_14" name="14 марта: прп. Венедикта"/>
+		<chapter file="March_15" name="15 марта: св. мч. Агапия"/>
+		<chapter file="March_16" name="16 марта: св. мч. Савина"/>
+		<chapter file="March_17" name="17 марта: прп. Алексия, человека Божия, и прп. Макария игумена"/>
+		<chapter file="March_18" name="18 марта: свт. Кирилла Иерусалимского"/>
+		<chapter file="March_19" name="19 марта: свв. мчч. Хрисанфа и Дарии"/>
+		<chapter file="March_20" name="20 марта: прпп. отец в обители св. Савы убиенных"/>
+		<chapter file="March_21" name="21 марта: прп. Иакова исповедника"/>
+		<chapter file="March_22" name="22 марта: св. сщмч. Василия Ангирского"/>
+		<chapter file="March_23" name="23 марта: прп. Никона"/>
+		<chapter file="March_24" name="24 марта: предпразднство Благоведения"/>
+		<chapter file="Eve_of_Annunciation" name="Устав в навечерие Благовещения"/>
+		<chapter file="March_25" name="25 марта: Благовещение пресвятыя Богородицы"/>
+		<chapter file="March_26" name="26 марта: Собор архангела Гавриила"/>
+		<chapter file="March_27" name="27 марта: св. Матроны Солунския"/>
+		<chapter file="March_28" name="28 марта: прп. Илариона Нового"/>
+		<chapter file="March_29" name="29 марта: прп. Марка Арефусимского"/>
+		<chapter file="March_30" name="30 марта: прп. Иоанна Лествичника"/>
+		<chapter file="March_31" name="31 марта: свю сщмч. Ипатия в Гагрех"/>
+		<chapter file="Dismissal_Theotokia" name="Богородичны воскресны по тропарех"/>
+		<chapter file="Lesser_Dismissal_Theotokia" name="Богородичны и крестобогородичны по тропарех"/>
+		<chapter file="Resurrectional_Theotokia_for_Stichera" name="Богородичны воскресны на стихирах"/>
+		<chapter file="Lesser_Theotokia_for_Stichera" name="Богородичны по гласу славы в Минее"/>
 	</manifest>
 </bookdata>

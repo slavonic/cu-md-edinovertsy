@@ -11,32 +11,32 @@
 		<meta name="keywords" content="triodion, pentecostarion, liturgy, liturgics, богослужебные тексты, богослужение, литургика"/>
 	</head>
 	<manifest>		
-		<chapter file="lazarus_saturday.md" name="Лазарева суббота"/>
-		<chapter file="palm_sunday.md" name="Неделя ваий"/>
-		<chapter file="holy_monday.md" name="Великий понедельник"/>
-		<chapter file="holy_tuesday.md" name="Великий вторник"/>
-		<chapter file="holy_wednesday.md" name="Великая среда"/>
-		<chapter file="holy_thursday.md" name="Великий четверток"/>
-		<chapter file="holy_friday.md" name="Великий пяток"/>
-		<chapter file="holy_saturday.md" name="Великая суббота"/>
-		<chapter file="pascha_vespersmatins.md" name="Пасха"/>
-		<chapter file="pascha_hours.md" name="Пасхальные часы"/>
-		<chapter file="bright_monday.md" name="Светлый понедельник"/>
-		<chapter file="bright_tuesday.md" name="Светлый вторник"/>
-		<chapter file="bright_wednesday.md" name="Светлая среда"/>
-		<chapter file="bright_thursday.md" name="Светлый четверток"/>
-		<chapter file="bright_friday.md" name="Светлый пяток"/>
-		<chapter file="bright_saturday.md" name="Светлая суббота"/>
-		<chapter file="thomas_week.md" name="Антипасха. Неделя Фомина."/>
-		<chapter file="myrrhbearers_week.md" name="Неделя мироносиц"/>
-		<chapter file="paralytic.md" name="О разслабленом"/>
-		<chapter file="midpentecost.md" name="Преполовение"/>
-		<chapter file="samaritan.md" name="О самаряныне"/>
-		<chapter file="blind_man.md" name="О слепом"/>
-		<chapter file="ascension.md" name="Вознесение"/>
-		<chapter file="fathers.md" name="Неделя св. Отцев"/>
-		<chapter file="soul_saturday.md" name="Суббота заупокойная"/>
-		<chapter file="pentecost.md" name="Пятидесятница"/>
-		<chapter file="allsaints.md" name="Неделя всех святых"/>
+		<chapter file="lazarus_saturday" name="Лазарева суббота"/>
+		<chapter file="palm_sunday" name="Неделя ваий"/>
+		<chapter file="holy_monday" name="Великий понедельник"/>
+		<chapter file="holy_tuesday" name="Великий вторник"/>
+		<chapter file="holy_wednesday" name="Великая среда"/>
+		<chapter file="holy_thursday" name="Великий четверток"/>
+		<chapter file="holy_friday" name="Великий пяток"/>
+		<chapter file="holy_saturday" name="Великая суббота"/>
+		<chapter file="pascha_vespersmatins" name="Пасха"/>
+		<chapter file="pascha_hours" name="Пасхальные часы"/>
+		<chapter file="bright_monday" name="Светлый понедельник"/>
+		<chapter file="bright_tuesday" name="Светлый вторник"/>
+		<chapter file="bright_wednesday" name="Светлая среда"/>
+		<chapter file="bright_thursday" name="Светлый четверток"/>
+		<chapter file="bright_friday" name="Светлый пяток"/>
+		<chapter file="bright_saturday" name="Светлая суббота"/>
+		<chapter file="thomas_week" name="Антипасха. Неделя Фомина."/>
+		<chapter file="myrrhbearers_week" name="Неделя мироносиц"/>
+		<chapter file="paralytic" name="О разслабленом"/>
+		<chapter file="midpentecost" name="Преполовение"/>
+		<chapter file="samaritan" name="О самаряныне"/>
+		<chapter file="blind_man" name="О слепом"/>
+		<chapter file="ascension" name="Вознесение"/>
+		<chapter file="fathers" name="Неделя св. Отцев"/>
+		<chapter file="soul_saturday" name="Суббота заупокойная"/>
+		<chapter file="pentecost" name="Пятидесятница"/>
+		<chapter file="allsaints" name="Неделя всех святых"/>
 	</manifest>
 </bookdata>

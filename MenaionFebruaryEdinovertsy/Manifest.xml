@@ -11,39 +11,39 @@
 		<meta name="keywords" content="menaion, liturgics, богослужебные тексты, богослужение, литургика"/>
 	</head>
 	<manifest>
-		<chapter file="February_1.md" name="1 февраля: св. мч. Трифона"/>
-		<chapter file="February_2.md" name="2 февраля: Сретение Господа нашего Исуса Христа"/>
-		<chapter file="February_3.md" name="3 февраля: свв. правв. Симеона Богоприимца и Анны Пророчицы"/>
-		<chapter file="February_4.md" name="4 февраля: прп. Исидора Пилусийского"/>
-		<chapter file="February_5.md" name="5 февраля: св. мц. Агафии"/>
-		<chapter file="February_6.md" name="6 февраля: прп. Викула"/>
-		<chapter file="February_7.md" name="7 февраля: свт. Парфения Лампсакийска"/>
-		<chapter file="February_8.md" name="8 февраля: вмч. Феодора Стратилата и св. пророка Захарии"/>
-		<chapter file="February_9.md" name="9 февраля: св. мч. Никифора"/>
-		<chapter file="February_10.md" name="10 февраля: св. мч. Харалампия"/>
-		<chapter file="February_11.md" name="11 февраля: св. сщмч. Власия и благов. князя Всеволода"/>
-		<chapter file="February_12.md" name="12 февраля: свт. Мелетия Антиохийского и свт. Алексия Московского"/>
-		<chapter file="February_13.md" name="13 февраля: прп. Мартиниана"/>
-		<chapter file="February_14.md" name="14 февраля: прп. Авксентия"/>
-		<chapter file="February_15.md" name="15 февраля: св. ап. Онисима"/>
-		<chapter file="February_16.md" name="16 февраля: свв. мчч. Памфила и Порфирия"/>
-		<chapter file="February_17.md" name="17 февраля: вмч. Феодора Тирона"/>
-		<chapter file="February_18.md" name="18 февраля: свт. Леонтия папы Римского"/>
-		<chapter file="February_19.md" name="19 февраля: св. апостола Архипа"/>
-		<chapter file="February_20.md" name="20 февраля: прп. Льва Катанского"/>
-		<chapter file="February_21.md" name="21 февраля: прп. Тимофея в Символех и свт. Евстафия Антиохийского"/>
-		<chapter file="February_22.md" name="22 февраля: свв. мчч. иже в Евгении"/>
-		<chapter file="February_23.md" name="23 февраля: св. сщмч. Поликарпа"/>
-		<chapter file="February_24.md" name="24 февраля: обретение честныя главы Иоанна Предтечи"/>
-		<chapter file="February_25.md" name="25 февраля: свт. Тарасия Константинопольского"/>
-		<chapter file="February_26.md" name="26 февраля: свт. Порфирия Газского"/>
-		<chapter file="February_27.md" name="27 февраля: прп. Прокопия Десятоградца"/>
-		<chapter file="February_28.md" name="28 февраля: прп. Василия Исповедника"/>
-		<chapter file="February_29.md" name="29 февраля: прп. Касиана Римлянина"/>
-		<chapter file="Dismissal_Theotokia.md" name="Богородичны воскресны по тропарех"/>
-		<chapter file="Lesser_Dismissal_Theotokia.md" name="Богородичны и крестобогородичны на осмь гласов по тропарех"/>
-		<chapter file="Resurrectional_Theotokia_for_Stichera.md" name="Богородичны воскресны поемыя на Господи воззвах"/>
-		<chapter file="Lesser_Theotokia_for_Stichera.md" name="Богородичны на осмь гласов после славника в Минее"/>
-		<chapter file="Appendix.md" name="Колофон"/>
+		<chapter file="February_1" name="1 февраля: св. мч. Трифона"/>
+		<chapter file="February_2" name="2 февраля: Сретение Господа нашего Исуса Христа"/>
+		<chapter file="February_3" name="3 февраля: свв. правв. Симеона Богоприимца и Анны Пророчицы"/>
+		<chapter file="February_4" name="4 февраля: прп. Исидора Пилусийского"/>
+		<chapter file="February_5" name="5 февраля: св. мц. Агафии"/>
+		<chapter file="February_6" name="6 февраля: прп. Викула"/>
+		<chapter file="February_7" name="7 февраля: свт. Парфения Лампсакийска"/>
+		<chapter file="February_8" name="8 февраля: вмч. Феодора Стратилата и св. пророка Захарии"/>
+		<chapter file="February_9" name="9 февраля: св. мч. Никифора"/>
+		<chapter file="February_10" name="10 февраля: св. мч. Харалампия"/>
+		<chapter file="February_11" name="11 февраля: св. сщмч. Власия и благов. князя Всеволода"/>
+		<chapter file="February_12" name="12 февраля: свт. Мелетия Антиохийского и свт. Алексия Московского"/>
+		<chapter file="February_13" name="13 февраля: прп. Мартиниана"/>
+		<chapter file="February_14" name="14 февраля: прп. Авксентия"/>
+		<chapter file="February_15" name="15 февраля: св. ап. Онисима"/>
+		<chapter file="February_16" name="16 февраля: свв. мчч. Памфила и Порфирия"/>
+		<chapter file="February_17" name="17 февраля: вмч. Феодора Тирона"/>
+		<chapter file="February_18" name="18 февраля: свт. Леонтия папы Римского"/>
+		<chapter file="February_19" name="19 февраля: св. апостола Архипа"/>
+		<chapter file="February_20" name="20 февраля: прп. Льва Катанского"/>
+		<chapter file="February_21" name="21 февраля: прп. Тимофея в Символех и свт. Евстафия Антиохийского"/>
+		<chapter file="February_22" name="22 февраля: свв. мчч. иже в Евгении"/>
+		<chapter file="February_23" name="23 февраля: св. сщмч. Поликарпа"/>
+		<chapter file="February_24" name="24 февраля: обретение честныя главы Иоанна Предтечи"/>
+		<chapter file="February_25" name="25 февраля: свт. Тарасия Константинопольского"/>
+		<chapter file="February_26" name="26 февраля: свт. Порфирия Газского"/>
+		<chapter file="February_27" name="27 февраля: прп. Прокопия Десятоградца"/>
+		<chapter file="February_28" name="28 февраля: прп. Василия Исповедника"/>
+		<chapter file="February_29" name="29 февраля: прп. Касиана Римлянина"/>
+		<chapter file="Dismissal_Theotokia" name="Богородичны воскресны по тропарех"/>
+		<chapter file="Lesser_Dismissal_Theotokia" name="Богородичны и крестобогородичны на осмь гласов по тропарех"/>
+		<chapter file="Resurrectional_Theotokia_for_Stichera" name="Богородичны воскресны поемыя на Господи воззвах"/>
+		<chapter file="Lesser_Theotokia_for_Stichera" name="Богородичны на осмь гласов после славника в Минее"/>
+		<chapter file="Appendix" name="Колофон"/>
 	</manifest>
 </bookdata>

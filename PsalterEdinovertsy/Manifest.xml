@@ -11,33 +11,33 @@
 		<meta name="keywords" content="menaion, liturgics, богослужебные тексты, богослужение, литургика"/>
 	</head>
 	<manifest>
-		<chapter file="Ustav.md" name="Устав о псалтири"/>
-		<chapter file="Beginning.md" name="обычное начало"/>
-		<chapter file="Cathisma_1.md" name="кафизма 1"/>
-		<chapter file="Cathisma_2.md" name="кафизма 2"/>
-		<chapter file="Cathisma_3.md" name="кафизма 3"/>
-		<chapter file="Cathisma_4.md" name="кафизма 4"/>
-		<chapter file="Cathisma_5.md" name="кафизма 5"/>
-		<chapter file="Cathisma_6.md" name="кафизма 6"/>
-		<chapter file="Cathisma_7.md" name="кафизма 7"/>
-		<chapter file="Cathisma_8.md" name="кафизма 8"/>
-		<chapter file="Cathisma_9.md" name="кафизма 9"/>
-		<chapter file="Cathisma_10.md" name="кафизма 10"/>
-		<chapter file="Cathisma_11.md" name="кафизма 11"/>
-		<chapter file="Cathisma_12.md" name="кафизма 12"/>
-		<chapter file="Cathisma_13.md" name="кафизма 13"/>
-		<chapter file="Cathisma_14.md" name="кафизма 14"/>
-		<chapter file="Cathisma_15.md" name="кафизма 15"/>
-		<chapter file="Cathisma_16.md" name="кафизма 16"/>
-		<chapter file="Cathisma_17.md" name="кафизма 17"/>
-		<chapter file="Cathisma_18.md" name="кафизма 18"/>
-		<chapter file="Cathisma_19.md" name="кафизма 19"/>
-		<chapter file="Cathisma_20.md" name="кафизма 20"/>
-		<chapter file="Psalm_151.md" name="псалом 151"/>
-		<chapter file="BiblicalOdes.md" name="библейские песни"/>
-		<chapter file="PrayersAfterPsalter.md" name="молитвы по окончании псалтири"/>
-		<chapter file="Selected_Psalms.md" name="псалмы избранные"/>
-		<chapter file="Psalm_Singing.md" name="молитвы по кафизмам"/>
-		<chapter file="Table_of_Contents.md" name="оглавление"/>
+		<chapter file="Ustav" name="Устав о псалтири"/>
+		<chapter file="Beginning" name="обычное начало"/>
+		<chapter file="Cathisma_1" name="кафизма 1"/>
+		<chapter file="Cathisma_2" name="кафизма 2"/>
+		<chapter file="Cathisma_3" name="кафизма 3"/>
+		<chapter file="Cathisma_4" name="кафизма 4"/>
+		<chapter file="Cathisma_5" name="кафизма 5"/>
+		<chapter file="Cathisma_6" name="кафизма 6"/>
+		<chapter file="Cathisma_7" name="кафизма 7"/>
+		<chapter file="Cathisma_8" name="кафизма 8"/>
+		<chapter file="Cathisma_9" name="кафизма 9"/>
+		<chapter file="Cathisma_10" name="кафизма 10"/>
+		<chapter file="Cathisma_11" name="кафизма 11"/>
+		<chapter file="Cathisma_12" name="кафизма 12"/>
+		<chapter file="Cathisma_13" name="кафизма 13"/>
+		<chapter file="Cathisma_14" name="кафизма 14"/>
+		<chapter file="Cathisma_15" name="кафизма 15"/>
+		<chapter file="Cathisma_16" name="кафизма 16"/>
+		<chapter file="Cathisma_17" name="кафизма 17"/>
+		<chapter file="Cathisma_18" name="кафизма 18"/>
+		<chapter file="Cathisma_19" name="кафизма 19"/>
+		<chapter file="Cathisma_20" name="кафизма 20"/>
+		<chapter file="Psalm_151" name="псалом 151"/>
+		<chapter file="BiblicalOdes" name="библейские песни"/>
+		<chapter file="PrayersAfterPsalter" name="молитвы по окончании псалтири"/>
+		<chapter file="Selected_Psalms" name="псалмы избранные"/>
+		<chapter file="Psalm_Singing" name="молитвы по кафизмам"/>
+		<chapter file="Table_of_Contents" name="оглавление"/>
 	</manifest>
 </bookdata>

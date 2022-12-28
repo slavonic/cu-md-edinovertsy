@@ -11,39 +11,39 @@
 		<meta name="keywords" content="octoechos, октоих, pre-niconian, дореформенный, богослужебные тексты, богослужение, литургика"/>
 	</head>
 	<manifest>
-		<chapter file="tone1_sunday.md" name="Глас 1 Неделя"/>
-		<chapter file="tone1_monday.md" name="Глас 1 понедельник"/>
-		<chapter file="tone1_tuesday.md" name="Глас 1 вторник"/>
-		<chapter file="tone1_wednesday.md" name="Глас 1 среда"/>
-		<chapter file="tone1_thursday.md" name="Глас 1 четверг"/>
-		<chapter file="tone1_friday.md" name="Глас 1 пятница"/>
-		<chapter file="tone1_saturday.md" name="Глас 1 суббота"/>
-		<chapter file="tone2_sunday.md" name="Глас 2 Неделя"/>
-		<chapter file="tone2_monday.md" name="Глас 2 понедельник"/>
-		<chapter file="tone2_tuesday.md" name="Глас 2 вторник"/>
-		<chapter file="tone2_wednesday.md" name="Глас 2 среда"/>
-		<chapter file="tone2_thursday.md" name="Глас 2 четверг"/>
-		<chapter file="tone2_friday.md" name="Глас 2 пятница"/>
-		<chapter file="tone2_saturday.md" name="Глас 2 суббота"/>
-		<chapter file="tone3_sunday.md" name="Глас 3 Неделя"/>
-		<chapter file="tone3_monday.md" name="Глас 3 понедельник"/>
-		<chapter file="tone3_tuesday.md" name="Глас 3 вторник"/>
-		<chapter file="tone3_wednesday.md" name="Глас 3 среда"/>
-		<chapter file="tone3_thursday.md" name="Глас 3 четверг"/>
-		<chapter file="tone3_friday.md" name="Глас 3 пятница"/>
-		<chapter file="tone3_saturday.md" name="Глас 3 суббота"/>
-		<chapter file="tone4_sunday.md" name="Глас 4 Неделя"/>
-		<chapter file="tone4_monday.md" name="Глас 4 понедельник"/>
-		<chapter file="tone4_tuesday.md" name="Глас 4 вторник"/>
-		<chapter file="tone4_wednesday.md" name="Глас 4 среда"/>
-		<chapter file="tone4_thursday.md" name="Глас 4 четверг"/>
-		<chapter file="tone4_friday.md" name="Глас 4 пятница"/>
-		<chapter file="tone4_saturday.md" name="Глас 4 суббота"/>
-		<chapter file="gospel_list.md" name="Столп евангельский"/>
-		<chapter file="exapostilaria.md" name="Эксапостиларии воскресные"/>
-		<chapter file="photagogica.md" name="Светильны осьми гласов"/>
-		<chapter file="daily_exapostilaria.md" name="Светильны дневные"/>
-		<chapter file="sunday_midnight_office.md" name="Полунощница воскресная"/>
-		<chapter file="eulogitaria.md" name="Тропари воскресные по непорочных"/>
+		<chapter file="tone1_sunday" name="Глас 1 Неделя"/>
+		<chapter file="tone1_monday" name="Глас 1 понедельник"/>
+		<chapter file="tone1_tuesday" name="Глас 1 вторник"/>
+		<chapter file="tone1_wednesday" name="Глас 1 среда"/>
+		<chapter file="tone1_thursday" name="Глас 1 четверг"/>
+		<chapter file="tone1_friday" name="Глас 1 пятница"/>
+		<chapter file="tone1_saturday" name="Глас 1 суббота"/>
+		<chapter file="tone2_sunday" name="Глас 2 Неделя"/>
+		<chapter file="tone2_monday" name="Глас 2 понедельник"/>
+		<chapter file="tone2_tuesday" name="Глас 2 вторник"/>
+		<chapter file="tone2_wednesday" name="Глас 2 среда"/>
+		<chapter file="tone2_thursday" name="Глас 2 четверг"/>
+		<chapter file="tone2_friday" name="Глас 2 пятница"/>
+		<chapter file="tone2_saturday" name="Глас 2 суббота"/>
+		<chapter file="tone3_sunday" name="Глас 3 Неделя"/>
+		<chapter file="tone3_monday" name="Глас 3 понедельник"/>
+		<chapter file="tone3_tuesday" name="Глас 3 вторник"/>
+		<chapter file="tone3_wednesday" name="Глас 3 среда"/>
+		<chapter file="tone3_thursday" name="Глас 3 четверг"/>
+		<chapter file="tone3_friday" name="Глас 3 пятница"/>
+		<chapter file="tone3_saturday" name="Глас 3 суббота"/>
+		<chapter file="tone4_sunday" name="Глас 4 Неделя"/>
+		<chapter file="tone4_monday" name="Глас 4 понедельник"/>
+		<chapter file="tone4_tuesday" name="Глас 4 вторник"/>
+		<chapter file="tone4_wednesday" name="Глас 4 среда"/>
+		<chapter file="tone4_thursday" name="Глас 4 четверг"/>
+		<chapter file="tone4_friday" name="Глас 4 пятница"/>
+		<chapter file="tone4_saturday" name="Глас 4 суббота"/>
+		<chapter file="gospel_list" name="Столп евангельский"/>
+		<chapter file="exapostilaria" name="Эксапостиларии воскресные"/>
+		<chapter file="photagogica" name="Светильны осьми гласов"/>
+		<chapter file="daily_exapostilaria" name="Светильны дневные"/>
+		<chapter file="sunday_midnight_office" name="Полунощница воскресная"/>
+		<chapter file="eulogitaria" name="Тропари воскресные по непорочных"/>
 	</manifest>
 </bookdata>

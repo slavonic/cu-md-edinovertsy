@@ -11,53 +11,53 @@
 		<meta name="keywords" content="минея, menaion"/>
 	</head>
 	<manifest>
-		<chapter file="sept6.md" name="6 сентября: Рождество Пресвятыя Богородицы"/>
-		<chapter file="sept14.md" name="14 сентября: Воздвижение честнаго Креста"/>
-		<chapter file="sept26.md" name="26 сентября: Преставление апостола и евангелиста Иоанна Богослова"/>
-		<chapter file="oct1.md" name="1 октября: Покров Пресвятыя Богородицы"/>
-		<chapter file="oct11.md" name="свв. Отцов седьмого собора"/>
-		<chapter file="oct22.md" name="22 октября: Иконы Пресвятыя Богородицы Казанския"/>
-		<chapter file="oct26.md" name="26 октября: святаго великомученика Димитрия"/>
-		<chapter file="nov13.md" name="13 ноября: святаго Иоанна Златоустаго"/>
-		<chapter file="nov21.md" name="21 ноября: Введение во храм Пресвятыя Богородицы"/>
-		<chapter file="nov27.md" name="27 ноября: Знамение Пресвятыя Богородицы в Новгороде"/>
-		<chapter file="dec6.md" name="6 декабря: святаго Николы Чудотворца"/>
-		<chapter file="forefathers.md" name="Неделя свв. праотцев"/>
-		<chapter file="dec17.md" name="17 декабря: святых триех отроков"/>
-		<chapter file="fathers.md" name="Неделя свв. отцев"/>
-		<chapter file="dec25.md" name="25 декабря: Рождество Христово"/>
-		<chapter file="dec26.md" name="26 декабря: Собор Пресвятыя Богородицы"/>
-		<chapter file="afterfeast.md" name="Неделя свв. богоотцев"/>
-		<chapter file="jan1.md" name="1 января: Обрезание Господа нашего Исуса Христа"/>
-		<chapter file="jan6.md" name="6 января: святое Богоявление"/>
-		<chapter file="jan30.md" name="30 января: святых триех святителей"/>
-		<chapter file="feb2.md" name="2 февраля: Сретение Господа нашего Исуса Христа"/>
-		<chapter file="mar25.md" name="24 марта: навечерие Благовещения"/>
-		<chapter file="mar252.md" name="25 марта: Благовещение Пресвятыя Богородицы"/>
-		<chapter file="palmsunday.md" name="Неделя цветоносная"/>
-		<chapter file="pascha.md" name="Пасха"/>
-		<chapter file="paschahours.md" name="Пасхальные часы"/>
-		<chapter file="brighttues.md" name="Светлый вторник"/>
-		<chapter file="thomas.md" name="Неделя Фомина"/>
-		<chapter file="ascenison.md" name="Вознесение"/>
-		<chapter file="pentecost.md" name="Неделя пятидесятницы"/>
-		<chapter file="pentmon.md" name="Понедельник пятидесятницы"/>
-		<chapter file="may9.md" name="9 мая: перенесение честных мощей св. Николы"/>
-		<chapter file="jun23.md" name="23 июня: сретение чудотворныя иконы Владимирская"/>
-		<chapter file="jun24.md" name="24 июня: рождество Иоанна Предтечи"/>
-		<chapter file="jun26.md" name="26 июня: явление чудотворныя иконы Тихвинския"/>
-		<chapter file="jun29.md" name="29 июня: святых апостол Петра и Павла"/>
-		<chapter file="jul8.md" name="8 июля: явление иконы Пресвятыя Богородицы в Казани"/>
-		<chapter file="jul10.md" name="10 июля: положение ризы Господа нашего Исуса Христа"/>
-		<chapter file="jul16.md" name="16 июля: память святых Шести собор"/>
-		<chapter file="jul20.md" name="20 июля: святаго пророка Илии"/>
-		<chapter file="jul28.md" name="28 июля: явление чудотворныя иконы Смоленския"/>
-		<chapter file="aug1.md" name="1 августа: Происхождение честнаго Креста Господня"/>
-		<chapter file="aug6.md" name="6 августа: Преображение Господа нашего Исуса Христа"/>
-		<chapter file="aug15.md" name="15 августа: Успение Пресвятыя Богородицы"/>
-		<chapter file="aug16.md" name="16 августа: перенесение святаго Убруса"/>
-		<chapter file="aug26.md" name="26 августа: сретение честныя иконы Владимирския"/>
-		<chapter file="aug29.md" name="29 августа: Усекновение главы Иоанна Предтечи"/>
-		<chapter file="contents.md" name="Оглавление"/>
+		<chapter file="sept6" name="6 сентября: Рождество Пресвятыя Богородицы"/>
+		<chapter file="sept14" name="14 сентября: Воздвижение честнаго Креста"/>
+		<chapter file="sept26" name="26 сентября: Преставление апостола и евангелиста Иоанна Богослова"/>
+		<chapter file="oct1" name="1 октября: Покров Пресвятыя Богородицы"/>
+		<chapter file="oct11" name="свв. Отцов седьмого собора"/>
+		<chapter file="oct22" name="22 октября: Иконы Пресвятыя Богородицы Казанския"/>
+		<chapter file="oct26" name="26 октября: святаго великомученика Димитрия"/>
+		<chapter file="nov13" name="13 ноября: святаго Иоанна Златоустаго"/>
+		<chapter file="nov21" name="21 ноября: Введение во храм Пресвятыя Богородицы"/>
+		<chapter file="nov27" name="27 ноября: Знамение Пресвятыя Богородицы в Новгороде"/>
+		<chapter file="dec6" name="6 декабря: святаго Николы Чудотворца"/>
+		<chapter file="forefathers" name="Неделя свв. праотцев"/>
+		<chapter file="dec17" name="17 декабря: святых триех отроков"/>
+		<chapter file="fathers" name="Неделя свв. отцев"/>
+		<chapter file="dec25" name="25 декабря: Рождество Христово"/>
+		<chapter file="dec26" name="26 декабря: Собор Пресвятыя Богородицы"/>
+		<chapter file="afterfeast" name="Неделя свв. богоотцев"/>
+		<chapter file="jan1" name="1 января: Обрезание Господа нашего Исуса Христа"/>
+		<chapter file="jan6" name="6 января: святое Богоявление"/>
+		<chapter file="jan30" name="30 января: святых триех святителей"/>
+		<chapter file="feb2" name="2 февраля: Сретение Господа нашего Исуса Христа"/>
+		<chapter file="mar25" name="24 марта: навечерие Благовещения"/>
+		<chapter file="mar252" name="25 марта: Благовещение Пресвятыя Богородицы"/>
+		<chapter file="palmsunday" name="Неделя цветоносная"/>
+		<chapter file="pascha" name="Пасха"/>
+		<chapter file="paschahours" name="Пасхальные часы"/>
+		<chapter file="brighttues" name="Светлый вторник"/>
+		<chapter file="thomas" name="Неделя Фомина"/>
+		<chapter file="ascenison" name="Вознесение"/>
+		<chapter file="pentecost" name="Неделя пятидесятницы"/>
+		<chapter file="pentmon" name="Понедельник пятидесятницы"/>
+		<chapter file="may9" name="9 мая: перенесение честных мощей св. Николы"/>
+		<chapter file="jun23" name="23 июня: сретение чудотворныя иконы Владимирская"/>
+		<chapter file="jun24" name="24 июня: рождество Иоанна Предтечи"/>
+		<chapter file="jun26" name="26 июня: явление чудотворныя иконы Тихвинския"/>
+		<chapter file="jun29" name="29 июня: святых апостол Петра и Павла"/>
+		<chapter file="jul8" name="8 июля: явление иконы Пресвятыя Богородицы в Казани"/>
+		<chapter file="jul10" name="10 июля: положение ризы Господа нашего Исуса Христа"/>
+		<chapter file="jul16" name="16 июля: память святых Шести собор"/>
+		<chapter file="jul20" name="20 июля: святаго пророка Илии"/>
+		<chapter file="jul28" name="28 июля: явление чудотворныя иконы Смоленския"/>
+		<chapter file="aug1" name="1 августа: Происхождение честнаго Креста Господня"/>
+		<chapter file="aug6" name="6 августа: Преображение Господа нашего Исуса Христа"/>
+		<chapter file="aug15" name="15 августа: Успение Пресвятыя Богородицы"/>
+		<chapter file="aug16" name="16 августа: перенесение святаго Убруса"/>
+		<chapter file="aug26" name="26 августа: сретение честныя иконы Владимирския"/>
+		<chapter file="aug29" name="29 августа: Усекновение главы Иоанна Предтечи"/>
+		<chapter file="contents" name="Оглавление"/>
 	</manifest>
 </bookdata>

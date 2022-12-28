@@ -11,39 +11,39 @@
 		<meta name="keywords" content="menaion, liturgics, богослужебные тексты, богослужение, литургика"/>
 	</head>
 	<manifest>
-		<chapter file="November_1.md" name="1 ноября: свв. бессребреников Козмы и Дамиана"/>
-		<chapter file="November_2.md" name="2 ноября: свв. мчч. Акандина, Пигасия, Елпидифора и Анемподиста"/>
-		<chapter file="November_3.md" name="3 ноября: свв. мчч. Акепсимы, Иосифа и Аифала"/>
-		<chapter file="November_4.md" name="4 ноября: прп. Иоаникия Великого"/>
-		<chapter file="November_5.md" name="5 ноября: свв. мчч. Галактиона и Епистимии"/>
-		<chapter file="November_6.md" name="6 ноября: св. Павла Исповедника"/>
-		<chapter file="November_7.md" name="7 ноября: свв. мчч. 33 в Мелетии"/>
-		<chapter file="November_8.md" name="8 ноября: собор св. архистратига Михаила"/>
-		<chapter file="November_9.md" name="9 ноября: свв. мчч. Онисифора и Порфирия и прп. Матроны"/>
-		<chapter file="November_10.md" name="10 ноября: свв. апп. Олимба и Родиона"/>
-		<chapter file="November_11.md" name="11 ноября: свв. мчч. Мины, Виктора и Викентия и прп. Феодора Студита"/>
-		<chapter file="November_12.md" name="12 ноября: свт. Иоанна Милостивого"/>
-		<chapter file="November_13.md" name="13 ноября: свт. Иоанна Златоуста"/>
-		<chapter file="November_14.md" name="14 ноября: св. ап. Филиппа"/>
-		<chapter file="November_15.md" name="15 ноября: свв. мчч. Гурия, Самона и Авива"/>
-		<chapter file="November_16.md" name="16 ноября: св. ап. и евангелиста Матфея"/>
-		<chapter file="November_17.md" name="17 ноября: свт. Григория Чудотворца и прп. Никона Радонежского"/>
-		<chapter file="November_18.md" name="18 ноября: свв. мчч. Платона и Романа"/>
-		<chapter file="November_19.md" name="19 ноября: св. прор. Авдея"/>
-		<chapter file="November_20.md" name="20 ноября: прп. Григория Декаполита и свт. Прокла Константинопольского"/>
-		<chapter file="November_21.md" name="21 ноября: Введение в церковь Пресвятыя Богородицы"/>
-		<chapter file="November_22.md" name="22 ноября: св. ап. Филимона и св. кн. Михаила Тверского"/>
-		<chapter file="November_23.md" name="23 ноября: свт. Амфилохия Иконийского и свт. Григория Акраганского и св. благов. кн. Александра Невского"/>
-		<chapter file="November_24.md" name="24 ноября: св. влмчц. Екатерины и св. мч. Меркурия"/>
-		<chapter file="November_25.md" name="25 ноября: сщмчч. Климента папы Римского и Петра Александрийского"/>
-		<chapter file="November_26.md" name="26 ноября: прп. Алимпия Столпника и освящение церкви вмч. Георгия в Киеве"/>
-		<chapter file="November_27.md" name="27 ноября: св. влмч. Иакова Перского и прп. Паладия и свт. Иакова Ростовского; Знамение Богородицы в Новгороде"/>
-		<chapter file="November_28.md" name="28 ноября: прп. Стефана Нового Исповедника и св. мч. Иринарха"/>
-		<chapter file="November_29.md" name="29 ноября: св. мч. Парамона и св. мч. Филумена и прп. Акакия в Лествице"/>
-		<chapter file="November_30.md" name="30 ноября: св. ап. Андрея Первозванного"/>
-		<chapter file="Resurrectional_Theotokia.md" name="Богородичны воскресны по тропарях"/>
-		<chapter file="Weekday_Theotokia.md" name="Богородичны и крестобогородичны на восемь гласов"/>
-		<chapter file="Primary_Theotokia.md" name="Богородичны воскресны на восемь гласов"/>
-		<chapter file="Theotokia_for_Troparia.md" name="Богородичны на восемь гласов, когда святому слава в Минее"/>
+		<chapter file="November_1" name="1 ноября: свв. бессребреников Козмы и Дамиана"/>
+		<chapter file="November_2" name="2 ноября: свв. мчч. Акандина, Пигасия, Елпидифора и Анемподиста"/>
+		<chapter file="November_3" name="3 ноября: свв. мчч. Акепсимы, Иосифа и Аифала"/>
+		<chapter file="November_4" name="4 ноября: прп. Иоаникия Великого"/>
+		<chapter file="November_5" name="5 ноября: свв. мчч. Галактиона и Епистимии"/>
+		<chapter file="November_6" name="6 ноября: св. Павла Исповедника"/>
+		<chapter file="November_7" name="7 ноября: свв. мчч. 33 в Мелетии"/>
+		<chapter file="November_8" name="8 ноября: собор св. архистратига Михаила"/>
+		<chapter file="November_9" name="9 ноября: свв. мчч. Онисифора и Порфирия и прп. Матроны"/>
+		<chapter file="November_10" name="10 ноября: свв. апп. Олимба и Родиона"/>
+		<chapter file="November_11" name="11 ноября: свв. мчч. Мины, Виктора и Викентия и прп. Феодора Студита"/>
+		<chapter file="November_12" name="12 ноября: свт. Иоанна Милостивого"/>
+		<chapter file="November_13" name="13 ноября: свт. Иоанна Златоуста"/>
+		<chapter file="November_14" name="14 ноября: св. ап. Филиппа"/>
+		<chapter file="November_15" name="15 ноября: свв. мчч. Гурия, Самона и Авива"/>
+		<chapter file="November_16" name="16 ноября: св. ап. и евангелиста Матфея"/>
+		<chapter file="November_17" name="17 ноября: свт. Григория Чудотворца и прп. Никона Радонежского"/>
+		<chapter file="November_18" name="18 ноября: свв. мчч. Платона и Романа"/>
+		<chapter file="November_19" name="19 ноября: св. прор. Авдея"/>
+		<chapter file="November_20" name="20 ноября: прп. Григория Декаполита и свт. Прокла Константинопольского"/>
+		<chapter file="November_21" name="21 ноября: Введение в церковь Пресвятыя Богородицы"/>
+		<chapter file="November_22" name="22 ноября: св. ап. Филимона и св. кн. Михаила Тверского"/>
+		<chapter file="November_23" name="23 ноября: свт. Амфилохия Иконийского и свт. Григория Акраганского и св. благов. кн. Александра Невского"/>
+		<chapter file="November_24" name="24 ноября: св. влмчц. Екатерины и св. мч. Меркурия"/>
+		<chapter file="November_25" name="25 ноября: сщмчч. Климента папы Римского и Петра Александрийского"/>
+		<chapter file="November_26" name="26 ноября: прп. Алимпия Столпника и освящение церкви вмч. Георгия в Киеве"/>
+		<chapter file="November_27" name="27 ноября: св. влмч. Иакова Перского и прп. Паладия и свт. Иакова Ростовского; Знамение Богородицы в Новгороде"/>
+		<chapter file="November_28" name="28 ноября: прп. Стефана Нового Исповедника и св. мч. Иринарха"/>
+		<chapter file="November_29" name="29 ноября: св. мч. Парамона и св. мч. Филумена и прп. Акакия в Лествице"/>
+		<chapter file="November_30" name="30 ноября: св. ап. Андрея Первозванного"/>
+		<chapter file="Resurrectional_Theotokia" name="Богородичны воскресны по тропарях"/>
+		<chapter file="Weekday_Theotokia" name="Богородичны и крестобогородичны на восемь гласов"/>
+		<chapter file="Primary_Theotokia" name="Богородичны воскресны на восемь гласов"/>
+		<chapter file="Theotokia_for_Troparia" name="Богородичны на восемь гласов, когда святому слава в Минее"/>
 	</manifest>
 </bookdata>
