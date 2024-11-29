@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookdata>
+	<head>
+		<meta name="uuid" content="c74f93ee-351c-43e5-b241-55d86be5f4cb"/>
+		<meta name="lang" content="cu-xjos"/>
+		<meta name="title" content="Псалтырь"/>
+		<meta name="latin" content="psaltyr"/>
+		<meta name="publisher" content="?"/>
+		<meta name="year" content="?"/>
+		<meta name="note" content="Source unknown"/>
+		<meta name="keywords" content="psalter, псалтырь, псалтирь"/>
+	</head>
+	<manifest>
+		<chapter file="0_ustav" name="Устав о псалтири"/>
+		<chapter file="10_kath" name="Кафизма 10"/>
+<!-- 11_kath.md
+12_kath.md
+13_kath.md
+14_kath.md
+15_kath.md
+16_kath.md
+17_kath.md
+18_kath.md
+19_kath.md
+1_kath.md
+20_kath.md
+21_odes.md
+22_conclusion.md
+23_polyeleos.md
+24_sept_8.md
+25_sept_14.md
+26_nov_21.md
+27_dec_25.md
+28_jan_6.md
+29_feb_2.md
+2_kath.md
+30_mar_25.md
+31_palm_sun.md
+32_holy_sat.md
+33_thomas_sun.md
+34_ascension.md
+35_pentecost.md
+36_jun_29.md
+37_aug_6.md
+38_aug_15.md
+39_jun_24.md
+3_kath.md
+40_aug_29.md
+41_jul_20.md
+42_martyrs.md
+43_hierarchs.md
+44_monastics.md
+45_angels.md
+46_jan_30.md
+47_prayers.md
+4_kath.md
+5_kath.md
+6_kath.md
+7_kath.md
+8_kath.md
+9_kath.md -->
+	</manifest>
+</bookdata>
