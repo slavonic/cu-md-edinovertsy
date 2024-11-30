@@ -12,6 +12,8 @@
 	</head>
 	<manifest>
 		<chapter file="0_ustav" name="Устав о псалтири"/>
+		<chapter file="1_kath" name="Кафизма 1"/>
+
 		<chapter file="10_kath" name="Кафизма 10"/>
 <!-- 11_kath.md
 12_kath.md
@@ -22,7 +24,6 @@
 17_kath.md
 18_kath.md
 19_kath.md
-1_kath.md
 20_kath.md
 21_odes.md
 22_conclusion.md
