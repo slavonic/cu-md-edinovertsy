@@ -6,59 +6,58 @@
 		<meta name="title" content="Псалтырь"/>
 		<meta name="latin" content="psaltyr"/>
 		<meta name="publisher" content="?"/>
-		<meta name="year" content="?"/>
+		<meta name="year" content="nd"/>
 		<meta name="note" content="Source unknown"/>
 		<meta name="keywords" content="psalter, псалтырь, псалтирь"/>
 	</head>
 	<manifest>
 		<chapter file="0_ustav" name="Устав о псалтири"/>
 		<chapter file="1_kath" name="Кафизма 1"/>
-
+		<chapter file="2_kath" name="Кафизма 2"/>
+		<chapter file="3_kath" name="Кафизма 3"/>
+		<chapter file="4_kath" name="Кафизма 4"/>
+		<chapter file="5_kath" name="Кафизма 5"/>
+		<chapter file="6_kath" name="Кафизма 6"/>
+		<chapter file="7_kath" name="Кафизма 7"/>
+		<chapter file="8_kath" name="Кафизма 8"/>
+		<chapter file="9_kath" name="Кафизма 9"/>
 		<chapter file="10_kath" name="Кафизма 10"/>
-<!-- 11_kath.md
-12_kath.md
-13_kath.md
-14_kath.md
-15_kath.md
-16_kath.md
-17_kath.md
-18_kath.md
-19_kath.md
-20_kath.md
-21_odes.md
-22_conclusion.md
-23_polyeleos.md
-24_sept_8.md
-25_sept_14.md
-26_nov_21.md
-27_dec_25.md
-28_jan_6.md
-29_feb_2.md
-2_kath.md
-30_mar_25.md
-31_palm_sun.md
-32_holy_sat.md
-33_thomas_sun.md
-34_ascension.md
-35_pentecost.md
-36_jun_29.md
-37_aug_6.md
-38_aug_15.md
-39_jun_24.md
-3_kath.md
-40_aug_29.md
-41_jul_20.md
-42_martyrs.md
-43_hierarchs.md
-44_monastics.md
-45_angels.md
-46_jan_30.md
-47_prayers.md
-4_kath.md
-5_kath.md
-6_kath.md
-7_kath.md
-8_kath.md
-9_kath.md -->
+		<chapter file="11_kath" name="Кафизма 11"/>
+		<chapter file="12_kath" name="Кафизма 12"/>
+		<chapter file="13_kath" name="Кафизма 13"/>
+		<chapter file="14_kath" name="Кафизма 14"/>
+		<chapter file="15_kath" name="Кафизма 15"/>
+		<chapter file="16_kath" name="Кафизма 16"/>
+		<chapter file="17_kath" name="Кафизма 17"/>
+		<chapter file="18_kath" name="Кафизма 18"/>
+		<chapter file="19_kath" name="Кафизма 19"/>
+		<chapter file="20_kath" name="Кафизма 20"/>
+		<chapter file="21_odes" name="О песнех псалтырных"/>
+		<chapter file="22_conclusion" name="По совершении псалтыри"/>
+		<chapter file="23_polyeleos" name="Полиелиос"/>
+		<chapter file="24_sept_8" name="Рожество Богородицы"/>
+		<chapter file="25_sept_14" name="Воздвижение"/>
+		<chapter file="26_nov_21" name="Введение"/>
+		<chapter file="27_dec_25" name="Рожество Христово"/>
+		<chapter file="28_jan_6" name="Богоявление"/>
+		<chapter file="29_feb_2" name="Сретение"/>
+		<chapter file="30_mar_25" name="Благовещение"/>
+		<chapter file="31_palm_sun" name="Неделя Цветная"/>
+		<chapter file="32_holy_sat" name="Великая Суббота"/>
+		<chapter file="33_thomas_sun" name="Неделя Фомина"/>
+		<chapter file="34_ascension" name="Вознесение"/>
+		<chapter file="35_pentecost" name="Пятидесятница"/>
+		<chapter file="36_jun_29" name="Петра и Павла, общий апостолам"/>
+		<chapter file="37_aug_6" name="Преображение"/>
+		<chapter file="38_aug_15" name="Успение"/>
+		<chapter file="39_jun_24" name="Рожество Предотечи"/>
+		<chapter file="40_aug_29" name="Усекновение"/>
+		<chapter file="41_jul_20" name="Пророку Илие, общий пророкам"/>
+		<chapter file="42_martyrs" name="Мученикам общий"/>
+		<chapter file="43_hierarchs" name="Святителям общий"/>
+		<chapter file="44_monastics" name="Преподобным общий"/>
+		<chapter file="45_angels" name="Бесплотным силам"/>
+		<chapter file="46_jan_30" name="Трем святителям"/>
+		<chapter file="47_prayers" name="Молитвы после каждой кафизмы"/>
 	</manifest>
 </bookdata>
