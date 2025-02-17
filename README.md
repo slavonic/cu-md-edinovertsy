@@ -1,7 +1,7 @@
-# cu-md-edinovertsy
-Old Rite (Edinovertsy) liturgical texts in MarkDown format
+# cu-md-oldrite
+Old Rite liturgical texts in MarkDown format
 
-Дореформенные (единоверческие) богослужебные тексты в формате MarkDown
+Дореформенные богослужебные тексты в формате MarkDown
 
 This repository is modelled after the 
 [repository](https://github.com/slavonic/cu-md-sandbox) containing
