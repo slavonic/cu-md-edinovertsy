@@ -7,6 +7,7 @@ use File::Copy;  # Import the File::Copy module for copying files
 
 ### READ FROM FILE PASSED IN THE ARGUMENT
 ## the script takes one argument, which is the name of the file to be changed
+# the script may be run e.g. for file in *.md ; do perl ../../normalize.pl $file ; done
 my $DEBUG = 0; # if you set this variable to 0, the source file will be overwritten!
 
 my $file = $ARGV[0];
