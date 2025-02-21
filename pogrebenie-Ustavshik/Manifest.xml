@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookdata>
+	<head>
+		<meta name="uuid" content="e1dde558-dc7f-11e5-b69c-b18c5671dd9f"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Чин погребению"/>
+		<meta name="latin" content="pogrebenie"/>
+		<meta name="publisher" content="unknown"/>
+		<meta name="year" content="unknown"/>
+		<meta name="note" content="Source ustavshik.ru; Conversion from UCS to Unicode: Ponomar Technologies, Inc."/>
+		<meta name="keywords" content="погребение, pogrebenie"/>
+	</head>
+	<manifest>
+		<chapter file="1_vynos" name="Чин выноса усопшего"/>
+		<chapter file="2_pogrebenie" name="Погребение мирянам"/>
+		<chapter file="3_stikhery" name="Заупокойные стихеры"/>
+		<chapter file="4_mladentsem" name="Погребение младенцем"/>
+		<chapter file="5_paskha" name="Погребение на Пасху"/>
+	</manifest>
+</bookdata>
