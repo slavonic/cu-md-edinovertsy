@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookdata>
+	<head>
+		<meta name="uuid" content="cc3834b7-1cf8-4f36-8e1f-6a858a85a439"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Причастные часы"/>
+		<meta name="latin" content="PrichastnyeChasyUstavshik"/>
+		<meta name="publisher" content="unknown"/>
+		<meta name="year" content="unknown"/>
+		<meta name="note" content="Source ustavshik.ru; Conversion from UCS to Unicode: Ponomar Technologies, Inc."/>
+		<meta name="keywords" content="причастные часы, prichastnye chasy, communion hours"/>
+	</head>
+	<manifest>
+		<chapter file="1_chas_3" name="Час третий"/>
+		<chapter file="2_chas_6" name="Час шестый"/>
+		<chapter file="3_chas_9" name="Час девятый"/>
+		<chapter file="4_obednitsa" name="Благослови душе моя (Обедница)"/>
+		<chapter file="5_posledovanie" name="Последование ко святому причащению"/>
+		<chapter file="6_kanon" name="Канон ко святому причащению"/>
+		<chapter file="7_molitvy_pred" name="Молитвы к причащению"/>
+		<chapter file="8_molitvy_posle" name="Молитвы по причащении"/>
+		<chapter file="9_tropari" name="Тропари и кондаки"/>
+	</manifest>
+</bookdata>
