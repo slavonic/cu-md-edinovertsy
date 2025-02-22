@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookdata>
+	<head>
+		<meta name="uuid" content="22f1dc37-798d-47ff-a16f-e4592086bdf1"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Правильные каноны"/>
+		<meta name="latin" content="pravilnye-kanony"/>
+		<meta name="publisher" content="unknown"/>
+		<meta name="year" content="unknown"/>
+		<meta name="note" content="Source ustavshik.ru; Conversion from UCS to Unicode: Ponomar Technologies, Inc."/>
+		<meta name="keywords" content="правильные каноны"/>
+	</head>
+	<manifest>
+		<chapter file="pravilnye-kanony" name="Правильные каноны"/>
+	</manifest>
+</bookdata>
