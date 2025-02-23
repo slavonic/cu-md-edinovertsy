@@ -1,0 +1,93 @@
+Часослов
+
+Издание: Московский печатный двор, 1652 г. Источник: ustavshik.ru и другие
+
+1. Вечерня
+2. Павечерница великая
+3. Павечерница средняя
+4. Павечерница малая
+5. Полунощница повседневная
+6. Полунощница субботняя
+7. Полунощница воскресная
+8. Утреня
+9. Час первый
+10. Междочасие первого часа
+11. Час третий
+12. Междочасие третьего часа
+13. Час шестой
+14. Междочасие шестого часа
+15. Час девятый
+16. Междочасие девятого часа
+17. Псалмы на литургии
+18. Чин о панагии
+19. Указ о тропарех и о кондаках
+20. Тропари воскресны и Богородичны
+21. Тропари и кондаки дневные
+22. Богородичны и крестобогородичны
+23. Кондаки и икосы воскресны
+24. Сборник 12 месяцей, с тропари и кондаки
+	24a. месяц сентябрь
+	24b. месяц октябрь
+	24c. месяц ноябрь
+	24d. месяц декабрь
+	24e. месяц январь
+	24f. месяц февраль
+	24g. месяц март
+	24h. месяц апрель
+	24i. месяц май
+	24j. месяц июнь
+	24k. месяц июль
+	24l. месяц август
+25. Тропари Четверодесятницы
+26. Тропари пятидесятницы
+27. Указ о песнех
+28. Обращение индиктиона
+29. Пасхалия зрячая
+30. Лунное течение
+
+============================
+
+Chasoslov, edition of 1652, Moscow
+
+1_vechernya
+2_pavechernitsa_velikaya
+3_pavechernitsa_srednyaya
+4_pavechernitsa_malaya
+5_polunoshchnitsa_povsednevnaya
+6_polunoshchnitsa_subbotnyaya
+7_polunoshchnitsa_voskresnaya
+8_utrenya
+9_chas_1
+10_pochasie_1
+11_chas_3
+12_pochasie_3
+13_chas_6
+14_pochasie_6
+15_chas_9
+16_pochasie_9
+17_psalmy_na_liturgii
+18_panagiya
+19_ukaz_o_troparekh_i_o_kondakakh
+20_tropari_voskresny_i_bogorodichny
+21_tropari_i_kondaki_dvevnye
+22_bogorodichny_i_krestobogorodichny
+23_kondaki_i_ikosy_voskresny
+(24_sbornik_12_mesyatsei)
+	24a_sentyabr
+	24b_oktyabr
+	24c_noyabr
+	24d_dekabr
+	24e_yanvar
+	24f_fevral
+	24g_mart
+	24h_aprel
+	24i_mai
+	24j_iyun
+	24k_iyul
+	24l_avgust
+25_tropari_chetverodesyatnitsy
+26_tropari_pyatidesyatnitsy
+27_ukaz_o_pesnekh
+28_obrashchenie_indiktiona
+29_paskhaliya_zryachaya
+30_lunnoe_techenie
